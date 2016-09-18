@@ -71,6 +71,7 @@
 				<role>Committer</role>
 			</roles>
 		</developer>
+
 	</developers>
 	<dependencyManagement>
 		<dependencies>
